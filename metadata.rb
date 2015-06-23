@@ -1,3 +1,4 @@
+name              "supervisor"
 maintainer        "Noah Kantrowitz"
 maintainer_email  "noah@opscode.com"
 license           "Apache 2.0"
